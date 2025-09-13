@@ -1,0 +1,1001 @@
+Member_ID,Age,Gender,Day_of_Week,Workout_Time,Workout_Duration_Minutes,Workout_Type,Primary_Equipment_Used,Weekly_Frequency,Experience_Level,Month
+M1000,18,Male,Tuesday,20:30,72,Cardio,Weight Machines,2,1,July
+M1001,20,Female,Tuesday,21:15,43,Strength Training,Free Weights,5,2,February
+M1002,19,Female,Sunday,13:30,143,HIIT,Weight Machines,2,2,May
+M1003,19,Female,Tuesday,09:45,58,Cardio,Stretching Area,5,1,June
+M1004,18,Female,Tuesday,06:00,33,Yoga,Boxing Area,3,2,December
+M1005,18,Female,Friday,18:00,145,Cardio,Free Weights,5,2,October
+M1006,17,Female,Wednesday,15:00,117,HIIT,Cardio Machines,7,1,April
+M1007,20,Female,Friday,15:15,39,Cardio,Cardio Machines,2,1,October
+M1008,19,Male,Monday,07:15,110,Strength Training,Free Weights,3,2,May
+M1009,19,Female,Wednesday,20:00,57,Strength Training,Free Weights,6,1,September
+M1010,17,Male,Monday,07:30,138,Strength Training,Boxing Area,3,1,November
+M1011,20,Female,Monday,04:45,135,Boxing,Pool,3,2,July
+M1012,19,Female,Sunday,19:15,178,Strength Training,Stretching Area,6,1,February
+M1013,18,Male,Monday,20:00,127,Yoga,Functional Training Area,7,3,November
+M1014,18,Female,Thursday,07:15,151,Swimming,Cardio Machines,4,2,January
+M1015,18,Female,Wednesday,00:00,179,Yoga,Weight Machines,3,2,February
+M1016,18,Male,Tuesday,08:15,52,Strength Training,Free Weights,3,3,March
+M1017,19,Female,Saturday,10:00,47,Boxing,Free Weights,2,2,November
+M1018,18,Female,Monday,00:00,178,Strength Training,Cardio Machines,5,1,February
+M1019,18,Male,Friday,08:00,94,Cardio,Functional Training Area,5,2,November
+M1020,19,Female,Sunday,18:30,134,Boxing,Group Class Studio,6,2,March
+M1021,17,Male,Thursday,19:30,157,HIIT,Boxing Area,1,1,October
+M1022,18,Female,Sunday,18:15,63,Cardio,Group Class Studio,4,2,November
+M1023,18,Female,Monday,17:30,142,Strength Training,Stretching Area,3,2,November
+M1024,18,Female,Wednesday,06:15,123,Cardio,Free Weights,3,2,December
+M1025,19,Female,Tuesday,08:45,58,Cardio,Functional Training Area,5,3,December
+M1026,18,Female,Friday,19:30,67,Cardio,Cardio Machines,2,2,September
+M1027,19,Female,Sunday,19:15,62,Swimming,Weight Machines,4,2,April
+M1028,19,Male,Tuesday,02:15,36,Boxing,Stretching Area,5,3,December
+M1029,17,Female,Thursday,20:15,172,CrossFit,Boxing Area,7,1,September
+M1030,19,Male,Tuesday,18:45,65,Cardio,Free Weights,5,1,November
+M1031,18,Female,Thursday,07:30,129,HIIT,Free Weights,6,2,March
+M1032,17,Male,Wednesday,07:30,79,Boxing,Cardio Machines,4,2,December
+M1033,20,Male,Sunday,10:00,35,CrossFit,Cardio Machines,2,1,January
+M1034,20,Male,Thursday,08:15,179,Cardio,Pool,3,1,November
+M1035,19,Female,Tuesday,17:00,64,Strength Training,Free Weights,4,1,May
+M1036,18,Male,Monday,08:00,100,Strength Training,Free Weights,5,2,October
+M1037,17,Female,Monday,21:15,155,HIIT,Weight Machines,4,2,October
+M1038,19,Male,Tuesday,20:15,104,HIIT,Free Weights,3,3,February
+M1039,18,Male,Tuesday,18:15,73,CrossFit,Free Weights,3,2,April
+M1040,17,Female,Saturday,06:15,134,Strength Training,Boxing Area,2,2,February
+M1041,18,Female,Thursday,21:00,35,Strength Training,Weight Machines,5,2,February
+M1042,17,Male,Thursday,03:30,160,Cardio,Weight Machines,4,1,March
+M1043,20,Female,Monday,19:00,77,Cardio,Free Weights,5,1,May
+M1044,18,Female,Saturday,21:45,177,Strength Training,Weight Machines,3,2,April
+M1045,19,Female,Friday,19:15,122,HIIT,Group Class Studio,3,1,February
+M1046,18,Male,Monday,18:30,103,Cardio,Cardio Machines,5,2,November
+M1047,19,Male,Friday,10:45,142,Yoga,Functional Training Area,5,2,October
+M1048,19,Female,Thursday,11:00,115,Cardio,Weight Machines,4,2,February
+M1049,18,Male,Monday,06:15,180,Cardio,Weight Machines,4,3,June
+M1050,20,Female,Wednesday,08:30,84,Cardio,Weight Machines,3,2,July
+M1051,19,Female,Wednesday,08:45,159,CrossFit,Weight Machines,5,1,December
+M1052,20,Female,Monday,10:15,161,Strength Training,Group Class Studio,6,2,October
+M1053,20,Female,Sunday,13:45,42,CrossFit,Weight Machines,5,2,June
+M1054,19,Female,Saturday,04:45,176,Cardio,Cardio Machines,4,1,July
+M1055,20,Male,Friday,08:00,117,CrossFit,Free Weights,4,1,January
+M1056,17,Female,Wednesday,21:45,136,CrossFit,Cardio Machines,4,2,June
+M1057,18,Male,Wednesday,07:00,155,Cardio,Boxing Area,5,3,November
+M1058,17,Female,Thursday,09:30,65,HIIT,Cardio Machines,4,2,March
+M1059,18,Female,Thursday,18:15,67,Strength Training,Cardio Machines,4,3,January
+M1060,18,Female,Monday,12:45,39,Boxing,Pool,2,2,August
+M1061,18,Female,Wednesday,19:15,154,Cardio,Cardio Machines,7,1,April
+M1062,19,Female,Saturday,09:15,91,Cardio,Weight Machines,5,2,October
+M1063,18,Male,Wednesday,19:30,67,Yoga,Weight Machines,3,2,August
+M1064,18,Male,Monday,03:15,66,CrossFit,Functional Training Area,4,1,October
+M1065,19,Female,Friday,16:45,49,Strength Training,Functional Training Area,1,2,November
+M1066,17,Male,Tuesday,17:45,110,HIIT,Weight Machines,1,2,April
+M1067,19,Male,Tuesday,19:30,72,Cardio,Weight Machines,3,1,April
+M1068,17,Male,Monday,21:30,46,Cardio,Stretching Area,5,3,December
+M1069,20,Male,Tuesday,20:15,66,HIIT,Free Weights,6,2,October
+M1070,19,Male,Friday,18:15,147,Cardio,Weight Machines,4,3,April
+M1071,18,Male,Wednesday,08:00,158,Cardio,Free Weights,4,1,June
+M1072,17,Male,Tuesday,09:30,142,CrossFit,Group Class Studio,3,3,September
+M1073,19,Male,Saturday,20:30,135,Strength Training,Free Weights,2,1,May
+M1074,19,Female,Saturday,07:45,149,HIIT,Cardio Machines,2,1,December
+M1075,19,Male,Saturday,02:45,109,Strength Training,Free Weights,5,2,October
+M1076,19,Male,Tuesday,18:00,142,Strength Training,Cardio Machines,7,2,August
+M1077,17,Female,Wednesday,20:00,125,Strength Training,Group Class Studio,4,2,August
+M1078,18,Male,Sunday,05:45,35,HIIT,Weight Machines,5,2,April
+M1079,17,Female,Friday,15:45,34,Yoga,Cardio Machines,6,1,November
+M1080,20,Female,Monday,18:15,91,Strength Training,Weight Machines,2,2,October
+M1081,19,Male,Monday,11:00,75,Strength Training,Weight Machines,5,2,September
+M1082,18,Male,Wednesday,07:30,45,Boxing,Group Class Studio,4,2,September
+M1083,17,Female,Sunday,22:15,143,Strength Training,Weight Machines,4,2,May
+M1084,18,Female,Thursday,20:30,51,Boxing,Functional Training Area,3,3,June
+M1085,18,Female,Wednesday,22:45,154,Strength Training,Free Weights,5,2,May
+M1086,19,Female,Monday,19:15,150,Yoga,Free Weights,5,2,March
+M1087,19,Male,Thursday,19:30,136,Cardio,Weight Machines,2,3,November
+M1088,20,Female,Saturday,09:30,52,CrossFit,Cardio Machines,4,2,August
+M1089,18,Male,Wednesday,19:30,99,Yoga,Weight Machines,2,1,September
+M1090,17,Female,Friday,09:15,144,Cardio,Functional Training Area,6,1,April
+M1091,19,Female,Sunday,18:15,150,Strength Training,Free Weights,4,2,September
+M1092,19,Female,Tuesday,06:30,56,Yoga,Free Weights,6,1,September
+M1093,19,Female,Thursday,21:15,67,HIIT,Functional Training Area,3,2,July
+M1094,19,Male,Tuesday,17:45,50,Strength Training,Group Class Studio,2,1,August
+M1095,18,Male,Friday,07:30,34,Strength Training,Free Weights,1,1,March
+M1096,19,Male,Thursday,06:15,154,CrossFit,Cardio Machines,3,2,May
+M1097,18,Male,Thursday,18:15,152,Strength Training,Weight Machines,3,3,March
+M1098,17,Female,Friday,23:30,151,HIIT,Functional Training Area,4,2,July
+M1099,17,Male,Wednesday,19:15,149,Cardio,Group Class Studio,1,3,June
+M1100,17,Male,Sunday,13:15,178,CrossFit,Group Class Studio,4,3,November
+M1101,19,Female,Thursday,20:00,64,Boxing,Functional Training Area,3,1,March
+M1102,18,Female,Monday,19:15,116,Swimming,Weight Machines,4,1,September
+M1103,19,Female,Friday,17:30,112,Strength Training,Group Class Studio,5,2,December
+M1104,20,Female,Friday,08:45,158,CrossFit,Cardio Machines,4,3,January
+M1105,18,Male,Tuesday,22:45,147,Strength Training,Free Weights,7,2,October
+M1106,18,Male,Saturday,11:30,99,HIIT,Weight Machines,2,3,March
+M1107,19,Female,Sunday,09:30,166,Cardio,Pool,3,1,November
+M1108,18,Female,Tuesday,08:00,33,Strength Training,Boxing Area,3,1,October
+M1109,17,Male,Sunday,19:30,138,Boxing,Free Weights,3,2,November
+M1110,18,Female,Monday,08:30,155,Strength Training,Functional Training Area,5,2,July
+M1111,18,Male,Tuesday,02:45,88,HIIT,Group Class Studio,4,1,March
+M1112,20,Male,Tuesday,21:15,145,Yoga,Weight Machines,4,1,March
+M1113,19,Female,Saturday,19:00,140,Yoga,Weight Machines,3,1,February
+M1114,19,Female,Thursday,21:00,48,Strength Training,Functional Training Area,7,2,September
+M1115,20,Female,Monday,18:00,59,Cardio,Weight Machines,7,3,November
+M1116,19,Male,Wednesday,19:30,130,CrossFit,Free Weights,3,3,April
+M1117,18,Female,Thursday,04:30,31,Cardio,Functional Training Area,2,2,October
+M1118,20,Male,Monday,17:15,98,Cardio,Boxing Area,6,2,June
+M1119,19,Male,Saturday,17:45,130,Strength Training,Cardio Machines,7,2,February
+M1120,19,Female,Saturday,06:15,96,Cardio,Functional Training Area,3,1,September
+M1121,20,Female,Wednesday,18:45,109,Boxing,Weight Machines,3,1,July
+M1122,18,Female,Sunday,03:45,108,Cardio,Free Weights,7,1,October
+M1123,17,Female,Wednesday,17:15,70,HIIT,Cardio Machines,5,2,May
+M1124,18,Female,Sunday,21:45,146,Cardio,Weight Machines,3,3,July
+M1125,18,Female,Friday,02:15,165,Cardio,Group Class Studio,4,2,April
+M1126,19,Male,Thursday,18:15,164,Strength Training,Free Weights,7,2,October
+M1127,20,Male,Monday,19:30,34,Strength Training,Weight Machines,6,1,July
+M1128,17,Male,Saturday,19:45,56,Cardio,Weight Machines,5,2,February
+M1129,19,Male,Wednesday,07:45,45,HIIT,Pool,5,2,July
+M1130,18,Female,Monday,07:15,172,Cardio,Free Weights,2,2,April
+M1131,18,Female,Monday,00:45,133,Cardio,Free Weights,6,1,April
+M1132,17,Male,Thursday,17:45,115,Cardio,Free Weights,3,3,January
+M1133,18,Male,Thursday,17:45,62,Strength Training,Group Class Studio,7,2,December
+M1134,20,Female,Friday,19:45,158,Boxing,Free Weights,3,3,March
+M1135,18,Male,Saturday,20:15,119,Cardio,Free Weights,6,2,May
+M1136,19,Female,Monday,17:30,54,Strength Training,Free Weights,3,3,May
+M1137,19,Female,Friday,20:30,128,Strength Training,Functional Training Area,4,1,February
+M1138,18,Female,Tuesday,18:15,67,Swimming,Free Weights,2,1,April
+M1139,20,Female,Saturday,21:30,50,Strength Training,Weight Machines,5,1,January
+M1140,20,Female,Saturday,19:15,114,CrossFit,Weight Machines,6,1,September
+M1141,18,Male,Thursday,15:00,176,Strength Training,Cardio Machines,5,2,January
+M1142,18,Female,Friday,18:15,55,Boxing,Functional Training Area,4,2,June
+M1143,18,Female,Tuesday,20:45,170,CrossFit,Cardio Machines,1,2,July
+M1144,18,Male,Wednesday,07:45,108,HIIT,Pool,7,1,March
+M1145,17,Female,Saturday,21:15,150,Strength Training,Pool,5,3,December
+M1146,19,Female,Wednesday,03:30,149,Strength Training,Weight Machines,5,1,January
+M1147,19,Female,Tuesday,06:15,156,Cardio,Functional Training Area,5,1,July
+M1148,17,Female,Wednesday,08:30,51,Cardio,Functional Training Area,5,2,March
+M1149,18,Female,Saturday,20:45,67,Strength Training,Boxing Area,3,2,October
+M1150,20,Female,Tuesday,19:30,160,Strength Training,Weight Machines,5,2,December
+M1151,18,Female,Monday,05:00,35,HIIT,Cardio Machines,4,1,December
+M1152,17,Female,Friday,18:45,35,Cardio,Weight Machines,6,2,June
+M1153,18,Female,Saturday,18:30,50,Strength Training,Group Class Studio,6,1,December
+M1154,20,Female,Monday,18:30,69,Strength Training,Free Weights,1,1,June
+M1155,18,Female,Tuesday,20:45,87,Swimming,Free Weights,3,2,December
+M1156,19,Male,Monday,18:45,86,Cardio,Weight Machines,1,1,April
+M1157,19,Female,Tuesday,20:00,109,Yoga,Free Weights,2,1,December
+M1158,18,Female,Wednesday,17:30,148,Cardio,Cardio Machines,4,2,November
+M1159,19,Male,Friday,19:45,149,Strength Training,Free Weights,6,3,June
+M1160,18,Female,Thursday,08:45,127,Cardio,Weight Machines,2,3,November
+M1161,19,Male,Thursday,16:00,161,Cardio,Boxing Area,4,2,October
+M1162,19,Male,Tuesday,02:45,43,CrossFit,Weight Machines,6,1,April
+M1163,19,Female,Saturday,21:45,69,HIIT,Functional Training Area,6,1,August
+M1164,17,Male,Wednesday,17:45,121,Strength Training,Free Weights,4,1,September
+M1165,19,Female,Sunday,08:45,39,Swimming,Free Weights,5,2,February
+M1166,18,Female,Thursday,02:45,51,Cardio,Group Class Studio,4,2,July
+M1167,18,Female,Monday,04:30,66,Swimming,Functional Training Area,2,2,September
+M1168,17,Male,Friday,04:15,126,Swimming,Weight Machines,2,2,September
+M1169,19,Male,Tuesday,08:30,178,Strength Training,Pool,2,1,December
+M1170,19,Female,Friday,08:00,143,Cardio,Boxing Area,3,2,May
+M1171,17,Female,Monday,02:30,142,Cardio,Pool,7,1,January
+M1172,19,Female,Monday,16:30,159,HIIT,Weight Machines,5,2,June
+M1173,18,Male,Saturday,06:00,140,Cardio,Free Weights,3,2,August
+M1174,19,Female,Tuesday,06:15,137,Swimming,Cardio Machines,4,2,January
+M1175,18,Female,Saturday,11:45,113,Yoga,Cardio Machines,3,2,February
+M1176,19,Female,Tuesday,17:45,59,Strength Training,Free Weights,5,2,January
+M1177,18,Male,Thursday,19:45,32,Strength Training,Functional Training Area,6,1,May
+M1178,20,Female,Friday,19:30,131,HIIT,Free Weights,3,1,February
+M1179,17,Female,Wednesday,21:30,104,Strength Training,Weight Machines,1,2,October
+M1180,18,Female,Tuesday,20:00,42,Yoga,Weight Machines,4,1,October
+M1181,17,Male,Tuesday,18:30,70,Cardio,Functional Training Area,4,2,April
+M1182,20,Female,Monday,02:15,148,Cardio,Weight Machines,3,2,January
+M1183,20,Female,Tuesday,19:30,100,Strength Training,Group Class Studio,4,3,July
+M1184,18,Male,Thursday,10:45,46,Yoga,Cardio Machines,4,3,August
+M1185,19,Female,Sunday,21:15,75,Strength Training,Functional Training Area,3,1,May
+M1186,19,Female,Saturday,19:30,54,Yoga,Stretching Area,3,3,February
+M1187,19,Male,Friday,04:15,61,Cardio,Cardio Machines,3,2,August
+M1188,19,Male,Friday,21:45,171,Yoga,Stretching Area,6,2,January
+M1189,18,Female,Friday,15:45,125,HIIT,Free Weights,7,1,July
+M1190,17,Male,Tuesday,20:30,70,Strength Training,Weight Machines,6,3,January
+M1191,20,Female,Sunday,16:15,31,Yoga,Free Weights,5,1,December
+M1192,20,Male,Friday,20:30,102,Strength Training,Weight Machines,4,2,June
+M1193,19,Female,Thursday,18:45,36,Cardio,Group Class Studio,5,1,June
+M1194,18,Male,Monday,08:00,63,Strength Training,Free Weights,7,2,May
+M1195,18,Female,Wednesday,05:15,109,Yoga,Cardio Machines,3,2,February
+M1196,19,Female,Wednesday,09:30,157,Boxing,Cardio Machines,4,1,February
+M1197,20,Female,Saturday,08:45,122,HIIT,Cardio Machines,5,1,September
+M1198,20,Female,Thursday,05:15,127,Cardio,Weight Machines,5,2,May
+M1199,19,Male,Wednesday,19:15,80,Yoga,Functional Training Area,3,1,May
+M1200,19,Female,Sunday,12:00,96,Strength Training,Free Weights,4,2,July
+M1201,17,Male,Monday,12:45,42,Boxing,Weight Machines,5,2,June
+M1202,18,Male,Wednesday,09:45,116,Strength Training,Cardio Machines,4,2,February
+M1203,20,Male,Monday,17:45,59,Swimming,Cardio Machines,5,2,November
+M1204,19,Female,Friday,07:00,54,Yoga,Weight Machines,3,1,January
+M1205,17,Female,Sunday,21:45,136,Yoga,Group Class Studio,7,1,May
+M1206,17,Female,Tuesday,19:45,61,HIIT,Weight Machines,4,1,April
+M1207,19,Female,Saturday,23:45,48,Cardio,Weight Machines,4,3,December
+M1208,17,Male,Tuesday,20:45,40,HIIT,Free Weights,1,3,March
+M1209,18,Female,Sunday,13:30,157,Strength Training,Cardio Machines,2,1,February
+M1210,19,Male,Friday,10:30,33,HIIT,Functional Training Area,4,1,October
+M1211,19,Female,Saturday,19:30,49,HIIT,Free Weights,3,3,February
+M1212,19,Male,Monday,05:15,170,Boxing,Weight Machines,4,3,April
+M1213,18,Female,Sunday,17:30,47,Cardio,Functional Training Area,2,3,February
+M1214,19,Female,Friday,20:15,81,Strength Training,Weight Machines,6,2,April
+M1215,18,Male,Tuesday,13:15,104,Cardio,Free Weights,5,2,March
+M1216,18,Male,Saturday,17:45,159,HIIT,Cardio Machines,2,1,September
+M1217,19,Female,Tuesday,08:15,55,Strength Training,Free Weights,4,2,July
+M1218,19,Female,Saturday,17:45,76,Strength Training,Boxing Area,6,2,November
+M1219,19,Male,Monday,19:00,111,CrossFit,Free Weights,4,2,December
+M1220,19,Female,Friday,21:45,134,HIIT,Functional Training Area,3,2,March
+M1221,19,Male,Thursday,07:30,62,Cardio,Weight Machines,5,1,August
+M1222,17,Female,Monday,18:15,166,Cardio,Group Class Studio,3,1,September
+M1223,18,Female,Tuesday,09:45,93,Yoga,Free Weights,3,2,July
+M1224,18,Male,Monday,20:45,159,Strength Training,Cardio Machines,3,1,June
+M1225,18,Female,Wednesday,01:15,48,Yoga,Cardio Machines,4,2,April
+M1226,20,Male,Tuesday,12:45,171,Strength Training,Weight Machines,2,2,May
+M1227,18,Male,Thursday,10:45,119,CrossFit,Weight Machines,7,2,August
+M1228,20,Female,Tuesday,08:30,136,Cardio,Functional Training Area,3,2,March
+M1229,19,Male,Tuesday,19:15,89,Cardio,Pool,3,2,February
+M1230,19,Female,Friday,08:45,115,HIIT,Free Weights,4,1,March
+M1231,19,Male,Monday,18:45,34,HIIT,Free Weights,3,2,December
+M1232,19,Male,Sunday,19:00,162,Strength Training,Group Class Studio,4,2,July
+M1233,18,Male,Saturday,21:15,103,Yoga,Free Weights,3,2,August
+M1234,18,Female,Friday,01:00,42,Strength Training,Stretching Area,2,3,January
+M1235,19,Male,Thursday,19:00,109,Boxing,Cardio Machines,3,2,July
+M1236,18,Female,Saturday,19:45,96,CrossFit,Cardio Machines,3,1,September
+M1237,17,Female,Tuesday,21:30,177,Cardio,Free Weights,1,1,December
+M1238,19,Female,Monday,06:00,47,CrossFit,Free Weights,5,2,March
+M1239,18,Male,Tuesday,00:45,135,Cardio,Cardio Machines,4,2,March
+M1240,20,Female,Friday,18:15,102,Strength Training,Boxing Area,4,3,August
+M1241,20,Female,Monday,20:45,58,Swimming,Stretching Area,4,2,April
+M1242,20,Female,Thursday,20:30,110,HIIT,Free Weights,4,2,August
+M1243,18,Female,Sunday,09:45,41,Cardio,Free Weights,7,2,May
+M1244,17,Female,Saturday,19:00,131,Cardio,Free Weights,1,2,March
+M1245,20,Female,Thursday,21:00,171,Cardio,Group Class Studio,1,2,April
+M1246,18,Male,Monday,15:15,162,Swimming,Weight Machines,2,2,April
+M1247,20,Male,Saturday,19:15,42,Strength Training,Free Weights,2,2,August
+M1248,20,Female,Thursday,16:45,178,Cardio,Free Weights,2,1,June
+M1249,20,Female,Monday,23:00,118,Cardio,Weight Machines,5,3,July
+M1250,18,Female,Monday,18:30,54,Cardio,Stretching Area,4,1,September
+M1251,18,Female,Sunday,18:15,64,Cardio,Cardio Machines,7,1,June
+M1252,20,Male,Friday,13:00,93,Strength Training,Free Weights,3,1,March
+M1253,18,Male,Saturday,21:45,157,Strength Training,Weight Machines,3,1,March
+M1254,18,Female,Saturday,23:30,31,Strength Training,Weight Machines,7,2,November
+M1255,19,Female,Thursday,17:15,174,Boxing,Free Weights,6,1,March
+M1256,20,Male,Wednesday,21:45,165,Strength Training,Free Weights,4,1,December
+M1257,19,Female,Wednesday,08:30,152,Yoga,Cardio Machines,4,2,October
+M1258,19,Male,Tuesday,18:45,123,Yoga,Free Weights,6,2,February
+M1259,17,Female,Wednesday,18:15,41,CrossFit,Free Weights,4,1,January
+M1260,19,Male,Friday,19:30,146,Boxing,Weight Machines,2,2,November
+M1261,20,Female,Thursday,17:30,90,Strength Training,Functional Training Area,6,2,October
+M1262,17,Male,Saturday,17:45,31,Strength Training,Cardio Machines,4,3,January
+M1263,19,Female,Wednesday,18:00,166,Cardio,Cardio Machines,2,2,April
+M1264,20,Male,Thursday,18:45,111,Strength Training,Cardio Machines,4,1,March
+M1265,19,Male,Thursday,21:00,41,Yoga,Cardio Machines,3,2,May
+M1266,19,Male,Thursday,23:45,52,HIIT,Free Weights,6,2,December
+M1267,19,Female,Friday,02:00,114,CrossFit,Pool,2,1,September
+M1268,18,Female,Tuesday,19:00,60,Strength Training,Free Weights,6,3,December
+M1269,18,Male,Wednesday,19:15,122,Boxing,Weight Machines,4,2,August
+M1270,19,Female,Monday,19:30,73,Strength Training,Functional Training Area,3,3,December
+M1271,19,Female,Wednesday,12:00,178,Cardio,Weight Machines,2,2,September
+M1272,20,Female,Wednesday,19:30,39,Cardio,Pool,5,2,May
+M1273,20,Male,Thursday,07:30,163,Yoga,Weight Machines,7,2,August
+M1274,19,Female,Sunday,18:30,94,Cardio,Group Class Studio,3,2,April
+M1275,19,Male,Thursday,01:45,127,Boxing,Group Class Studio,3,2,May
+M1276,19,Male,Friday,17:45,51,Boxing,Stretching Area,4,3,December
+M1277,19,Female,Wednesday,21:00,73,CrossFit,Boxing Area,5,2,March
+M1278,19,Male,Thursday,11:45,54,Strength Training,Boxing Area,1,3,May
+M1279,19,Female,Monday,08:00,173,CrossFit,Functional Training Area,4,3,December
+M1280,20,Female,Tuesday,19:00,120,Yoga,Weight Machines,4,3,March
+M1281,18,Female,Wednesday,08:45,162,Strength Training,Free Weights,3,2,May
+M1282,18,Female,Wednesday,03:00,156,Strength Training,Cardio Machines,4,2,November
+M1283,17,Male,Monday,18:30,159,Strength Training,Stretching Area,3,1,May
+M1284,19,Male,Monday,17:00,138,Strength Training,Functional Training Area,5,2,June
+M1285,17,Female,Tuesday,08:00,37,Cardio,Boxing Area,4,1,September
+M1286,18,Male,Sunday,21:15,41,Swimming,Group Class Studio,4,1,January
+M1287,19,Male,Tuesday,18:00,179,Cardio,Free Weights,3,1,December
+M1288,18,Male,Wednesday,16:45,103,Cardio,Free Weights,3,3,October
+M1289,19,Male,Tuesday,18:30,180,Swimming,Weight Machines,6,3,June
+M1290,17,Male,Thursday,18:15,154,Strength Training,Free Weights,4,2,January
+M1291,17,Male,Tuesday,21:45,38,CrossFit,Cardio Machines,4,2,June
+M1292,19,Female,Tuesday,20:45,37,Cardio,Stretching Area,4,2,February
+M1293,18,Female,Wednesday,20:30,125,HIIT,Functional Training Area,3,2,August
+M1294,17,Female,Monday,19:15,68,Cardio,Weight Machines,3,2,November
+M1295,19,Male,Monday,18:15,147,HIIT,Free Weights,2,1,March
+M1296,19,Male,Tuesday,20:00,55,Strength Training,Weight Machines,2,1,October
+M1297,18,Male,Monday,19:15,79,Yoga,Cardio Machines,5,2,June
+M1298,19,Female,Monday,18:15,102,Strength Training,Weight Machines,3,2,June
+M1299,17,Female,Tuesday,08:00,180,Boxing,Free Weights,1,2,April
+M1300,17,Male,Saturday,10:00,139,Cardio,Weight Machines,5,3,May
+M1301,19,Female,Thursday,23:45,153,Strength Training,Weight Machines,2,1,February
+M1302,19,Male,Wednesday,21:45,83,HIIT,Boxing Area,4,1,October
+M1303,19,Female,Tuesday,07:45,92,Strength Training,Free Weights,3,2,October
+M1304,19,Female,Sunday,18:15,65,Yoga,Free Weights,2,1,August
+M1305,20,Female,Wednesday,21:30,113,Swimming,Free Weights,3,1,October
+M1306,19,Female,Monday,08:15,146,Yoga,Weight Machines,1,1,July
+M1307,18,Female,Thursday,14:45,135,Strength Training,Cardio Machines,6,2,October
+M1308,19,Male,Monday,18:45,153,HIIT,Functional Training Area,4,1,June
+M1309,18,Female,Tuesday,01:30,93,HIIT,Weight Machines,2,2,July
+M1310,18,Male,Wednesday,06:45,110,CrossFit,Cardio Machines,3,2,December
+M1311,17,Female,Saturday,03:15,55,Strength Training,Weight Machines,3,1,January
+M1312,17,Female,Wednesday,21:15,99,Cardio,Cardio Machines,2,2,May
+M1313,20,Female,Friday,22:45,108,Cardio,Free Weights,3,1,July
+M1314,19,Female,Sunday,20:00,98,Strength Training,Weight Machines,4,2,January
+M1315,19,Female,Monday,20:30,66,Cardio,Functional Training Area,6,3,February
+M1316,18,Female,Tuesday,19:00,158,Cardio,Group Class Studio,3,1,September
+M1317,18,Female,Wednesday,15:15,47,CrossFit,Functional Training Area,5,3,December
+M1318,18,Male,Wednesday,17:00,128,Boxing,Free Weights,6,2,March
+M1319,18,Male,Wednesday,18:45,137,HIIT,Free Weights,3,3,June
+M1320,19,Male,Sunday,19:45,89,Cardio,Stretching Area,6,2,July
+M1321,19,Male,Friday,08:00,74,Strength Training,Free Weights,5,1,September
+M1322,19,Female,Thursday,07:30,66,Swimming,Free Weights,3,3,May
+M1323,18,Male,Tuesday,21:45,72,Swimming,Free Weights,7,1,April
+M1324,20,Female,Saturday,23:30,142,Boxing,Weight Machines,3,1,November
+M1325,19,Male,Sunday,19:15,168,Yoga,Free Weights,3,1,December
+M1326,19,Male,Saturday,17:30,110,Cardio,Weight Machines,5,1,February
+M1327,19,Female,Monday,20:15,141,CrossFit,Weight Machines,3,2,March
+M1328,18,Female,Thursday,19:45,113,Cardio,Boxing Area,3,2,May
+M1329,18,Female,Monday,08:00,69,Cardio,Free Weights,2,3,November
+M1330,18,Female,Tuesday,08:00,31,Yoga,Weight Machines,5,1,February
+M1331,19,Female,Monday,19:30,154,Strength Training,Cardio Machines,5,3,April
+M1332,17,Male,Thursday,17:15,154,Strength Training,Cardio Machines,4,3,January
+M1333,17,Female,Friday,20:45,32,Cardio,Weight Machines,7,1,April
+M1334,17,Female,Monday,16:45,53,Cardio,Group Class Studio,3,1,July
+M1335,17,Female,Wednesday,00:30,175,Boxing,Free Weights,3,2,December
+M1336,20,Male,Wednesday,15:45,109,Strength Training,Group Class Studio,5,2,March
+M1337,19,Female,Wednesday,17:45,138,Strength Training,Weight Machines,5,2,October
+M1338,18,Male,Monday,08:15,172,Strength Training,Free Weights,3,2,August
+M1339,17,Male,Wednesday,08:00,123,Strength Training,Boxing Area,2,2,June
+M1340,18,Male,Friday,09:15,90,Strength Training,Cardio Machines,6,1,June
+M1341,18,Female,Monday,11:15,61,HIIT,Free Weights,7,2,January
+M1342,18,Female,Monday,18:45,149,Cardio,Free Weights,4,1,May
+M1343,18,Female,Tuesday,06:15,133,Yoga,Free Weights,3,2,March
+M1344,18,Female,Sunday,06:00,97,Swimming,Cardio Machines,7,2,October
+M1345,19,Male,Friday,21:30,108,HIIT,Free Weights,6,2,January
+M1346,19,Male,Friday,07:00,82,Strength Training,Free Weights,4,3,August
+M1347,17,Male,Wednesday,20:00,175,Strength Training,Free Weights,6,2,July
+M1348,18,Female,Thursday,18:30,149,Boxing,Functional Training Area,6,2,July
+M1349,19,Male,Monday,09:15,114,Cardio,Group Class Studio,7,2,December
+M1350,19,Female,Thursday,19:15,60,CrossFit,Functional Training Area,6,3,October
+M1351,20,Female,Sunday,01:45,103,CrossFit,Free Weights,4,2,October
+M1352,19,Female,Thursday,09:15,109,Boxing,Boxing Area,4,1,October
+M1353,18,Female,Saturday,11:00,171,Boxing,Cardio Machines,4,3,April
+M1354,17,Female,Friday,17:45,83,HIIT,Boxing Area,4,2,November
+M1355,19,Female,Monday,08:30,151,Cardio,Weight Machines,5,1,June
+M1356,17,Female,Sunday,03:30,146,Swimming,Weight Machines,7,2,September
+M1357,19,Male,Monday,07:45,178,Cardio,Functional Training Area,4,3,March
+M1358,20,Male,Thursday,21:45,145,Strength Training,Free Weights,4,2,September
+M1359,19,Female,Monday,04:00,50,HIIT,Cardio Machines,3,1,April
+M1360,18,Female,Monday,18:00,146,HIIT,Group Class Studio,5,2,May
+M1361,19,Male,Wednesday,20:15,158,Boxing,Group Class Studio,4,2,July
+M1362,18,Female,Tuesday,20:45,177,HIIT,Pool,1,2,June
+M1363,19,Female,Wednesday,07:45,56,Cardio,Cardio Machines,4,1,October
+M1364,20,Female,Thursday,09:15,126,Swimming,Free Weights,2,1,August
+M1365,18,Male,Monday,07:45,104,CrossFit,Free Weights,1,2,August
+M1366,20,Female,Monday,13:15,105,HIIT,Weight Machines,5,2,August
+M1367,20,Female,Thursday,21:30,179,Strength Training,Cardio Machines,3,1,March
+M1368,18,Male,Tuesday,04:15,49,Cardio,Free Weights,3,1,October
+M1369,17,Male,Friday,23:45,99,HIIT,Free Weights,2,1,June
+M1370,17,Female,Thursday,01:00,176,Strength Training,Cardio Machines,2,2,July
+M1371,17,Male,Saturday,19:15,83,Strength Training,Functional Training Area,5,1,September
+M1372,17,Female,Friday,17:00,129,Yoga,Stretching Area,4,1,October
+M1373,19,Female,Wednesday,20:30,125,Cardio,Functional Training Area,6,1,October
+M1374,17,Male,Friday,22:00,46,Cardio,Functional Training Area,3,2,December
+M1375,18,Female,Tuesday,10:00,91,Strength Training,Cardio Machines,3,2,April
+M1376,19,Female,Tuesday,18:30,150,Cardio,Stretching Area,3,1,May
+M1377,17,Female,Friday,19:30,111,Yoga,Cardio Machines,5,3,August
+M1378,19,Male,Wednesday,19:00,151,Strength Training,Group Class Studio,4,1,January
+M1379,18,Female,Friday,16:45,117,Strength Training,Pool,6,1,December
+M1380,17,Male,Saturday,13:15,38,HIIT,Boxing Area,4,3,June
+M1381,19,Male,Saturday,10:45,31,Swimming,Weight Machines,4,2,April
+M1382,19,Female,Sunday,18:30,141,HIIT,Free Weights,5,2,May
+M1383,20,Male,Wednesday,20:15,112,Strength Training,Free Weights,7,1,November
+M1384,19,Female,Tuesday,17:15,89,Cardio,Free Weights,3,2,May
+M1385,19,Male,Thursday,18:30,158,CrossFit,Free Weights,3,2,February
+M1386,18,Female,Wednesday,21:45,145,Strength Training,Free Weights,4,2,August
+M1387,18,Male,Thursday,20:00,92,HIIT,Weight Machines,4,1,February
+M1388,19,Female,Friday,18:15,101,Cardio,Cardio Machines,7,2,April
+M1389,19,Female,Friday,18:30,30,Strength Training,Functional Training Area,4,2,December
+M1390,20,Male,Wednesday,21:00,65,CrossFit,Free Weights,2,3,May
+M1391,18,Male,Monday,07:45,132,Yoga,Cardio Machines,7,1,January
+M1392,18,Male,Wednesday,20:15,177,HIIT,Functional Training Area,6,2,June
+M1393,19,Female,Monday,07:30,132,Strength Training,Cardio Machines,2,1,February
+M1394,18,Male,Saturday,00:15,154,Strength Training,Boxing Area,6,2,May
+M1395,20,Female,Tuesday,07:15,133,HIIT,Free Weights,3,1,June
+M1396,20,Female,Monday,06:00,51,HIIT,Free Weights,3,2,November
+M1397,18,Male,Monday,22:30,173,Strength Training,Weight Machines,6,1,August
+M1398,19,Female,Thursday,18:15,125,Strength Training,Free Weights,4,1,September
+M1399,19,Female,Thursday,01:15,114,Strength Training,Cardio Machines,2,1,December
+M1400,17,Male,Tuesday,06:00,144,Swimming,Weight Machines,3,1,June
+M1401,20,Male,Monday,10:30,120,Yoga,Weight Machines,5,3,May
+M1402,19,Male,Wednesday,17:45,172,Boxing,Free Weights,2,3,December
+M1403,19,Female,Tuesday,18:15,105,Strength Training,Weight Machines,4,2,April
+M1404,18,Female,Friday,18:30,54,Swimming,Cardio Machines,5,1,February
+M1405,20,Female,Thursday,06:30,59,Strength Training,Cardio Machines,3,2,February
+M1406,18,Female,Wednesday,18:30,107,Cardio,Free Weights,5,2,July
+M1407,17,Female,Tuesday,08:30,100,CrossFit,Free Weights,6,3,May
+M1408,20,Female,Sunday,08:15,170,Cardio,Free Weights,4,2,July
+M1409,17,Female,Wednesday,07:00,179,Cardio,Free Weights,3,2,November
+M1410,18,Male,Friday,09:00,135,Strength Training,Group Class Studio,3,3,January
+M1411,20,Male,Monday,07:15,65,Strength Training,Free Weights,4,3,January
+M1412,20,Male,Wednesday,21:15,101,HIIT,Functional Training Area,6,1,May
+M1413,19,Male,Monday,18:30,138,HIIT,Group Class Studio,3,1,February
+M1414,19,Female,Wednesday,08:00,36,Yoga,Free Weights,3,2,August
+M1415,18,Female,Sunday,19:30,65,HIIT,Weight Machines,3,2,March
+M1416,18,Male,Wednesday,18:15,45,HIIT,Pool,4,1,January
+M1417,18,Male,Monday,07:30,86,Strength Training,Group Class Studio,3,1,February
+M1418,19,Female,Monday,06:15,143,Strength Training,Weight Machines,6,2,October
+M1419,19,Female,Wednesday,19:45,135,Swimming,Functional Training Area,3,2,October
+M1420,19,Male,Monday,17:45,85,Strength Training,Group Class Studio,5,1,July
+M1421,19,Female,Monday,18:15,52,HIIT,Weight Machines,4,2,June
+M1422,17,Male,Friday,08:00,77,Strength Training,Boxing Area,4,2,December
+M1423,18,Male,Wednesday,18:30,89,Yoga,Weight Machines,2,2,August
+M1424,17,Female,Tuesday,18:30,79,Yoga,Cardio Machines,5,1,July
+M1425,19,Female,Sunday,21:30,176,Strength Training,Stretching Area,2,2,October
+M1426,18,Male,Monday,00:45,83,Strength Training,Group Class Studio,2,2,August
+M1427,20,Female,Sunday,12:00,93,HIIT,Weight Machines,4,1,March
+M1428,18,Female,Tuesday,09:00,138,Cardio,Free Weights,5,2,June
+M1429,17,Female,Saturday,06:45,152,Strength Training,Cardio Machines,1,1,July
+M1430,17,Female,Thursday,10:15,77,Yoga,Functional Training Area,2,1,October
+M1431,19,Female,Saturday,17:15,126,Strength Training,Cardio Machines,6,2,November
+M1432,19,Female,Sunday,20:00,157,CrossFit,Pool,6,1,January
+M1433,17,Female,Tuesday,19:30,85,Cardio,Group Class Studio,3,1,January
+M1434,17,Male,Sunday,19:45,39,Strength Training,Weight Machines,4,2,July
+M1435,19,Male,Wednesday,19:45,131,HIIT,Free Weights,3,1,November
+M1436,17,Male,Wednesday,21:15,86,Cardio,Weight Machines,4,3,March
+M1437,19,Female,Tuesday,08:45,59,Strength Training,Cardio Machines,6,2,March
+M1438,19,Male,Thursday,22:00,76,Cardio,Cardio Machines,2,1,May
+M1439,17,Female,Monday,17:15,155,Strength Training,Cardio Machines,5,1,November
+M1440,17,Female,Thursday,19:30,100,Strength Training,Weight Machines,4,2,June
+M1441,20,Male,Thursday,11:30,32,Strength Training,Weight Machines,4,2,February
+M1442,18,Female,Friday,09:15,110,Cardio,Weight Machines,5,1,March
+M1443,18,Female,Saturday,19:30,108,Strength Training,Cardio Machines,7,1,June
+M1444,19,Female,Wednesday,10:30,101,HIIT,Free Weights,1,2,March
+M1445,20,Male,Tuesday,13:45,87,HIIT,Weight Machines,1,1,May
+M1446,20,Female,Tuesday,10:15,122,Cardio,Weight Machines,2,3,September
+M1447,19,Female,Tuesday,20:45,50,Yoga,Cardio Machines,7,2,December
+M1448,18,Female,Monday,07:45,32,CrossFit,Free Weights,5,2,March
+M1449,17,Female,Tuesday,18:45,99,HIIT,Group Class Studio,4,1,December
+M1450,19,Female,Tuesday,11:00,61,HIIT,Cardio Machines,1,1,November
+M1451,19,Female,Sunday,20:30,165,Strength Training,Cardio Machines,6,2,June
+M1452,18,Female,Thursday,06:15,135,Boxing,Functional Training Area,6,1,November
+M1453,20,Female,Tuesday,09:30,117,Strength Training,Weight Machines,5,1,May
+M1454,17,Male,Thursday,18:15,51,Cardio,Weight Machines,3,2,May
+M1455,18,Female,Monday,19:00,60,Yoga,Pool,2,1,November
+M1456,17,Female,Wednesday,17:45,144,Strength Training,Functional Training Area,4,2,June
+M1457,18,Female,Thursday,14:30,58,Strength Training,Pool,5,2,June
+M1458,17,Male,Wednesday,19:45,46,HIIT,Functional Training Area,2,2,January
+M1459,17,Female,Wednesday,19:15,96,HIIT,Free Weights,4,3,November
+M1460,17,Male,Sunday,21:00,45,Yoga,Free Weights,3,2,September
+M1461,19,Female,Saturday,15:45,60,CrossFit,Cardio Machines,5,1,May
+M1462,19,Male,Thursday,06:00,145,Strength Training,Weight Machines,4,1,January
+M1463,19,Female,Thursday,06:15,112,Strength Training,Weight Machines,2,2,August
+M1464,20,Female,Thursday,09:15,78,HIIT,Group Class Studio,4,2,July
+M1465,18,Male,Tuesday,17:45,129,Cardio,Weight Machines,3,1,July
+M1466,18,Female,Wednesday,16:15,128,HIIT,Weight Machines,2,3,May
+M1467,20,Male,Monday,21:45,102,Strength Training,Group Class Studio,6,2,January
+M1468,18,Female,Wednesday,20:45,90,Cardio,Group Class Studio,1,1,September
+M1469,20,Female,Thursday,19:30,32,Cardio,Weight Machines,3,2,November
+M1470,17,Female,Tuesday,07:30,71,HIIT,Group Class Studio,1,1,September
+M1471,20,Female,Sunday,15:45,168,Cardio,Group Class Studio,2,2,August
+M1472,17,Female,Sunday,08:15,150,Cardio,Weight Machines,3,2,May
+M1473,20,Male,Friday,18:00,72,Cardio,Free Weights,1,1,March
+M1474,19,Male,Thursday,04:30,163,Strength Training,Free Weights,4,1,August
+M1475,20,Female,Saturday,09:00,75,Strength Training,Cardio Machines,2,3,January
+M1476,17,Female,Monday,03:15,163,Cardio,Weight Machines,5,2,March
+M1477,19,Female,Friday,21:30,31,Cardio,Stretching Area,1,3,December
+M1478,20,Female,Monday,20:30,172,Cardio,Functional Training Area,1,1,November
+M1479,19,Female,Friday,15:30,110,Cardio,Functional Training Area,3,1,July
+M1480,19,Female,Tuesday,19:15,56,HIIT,Pool,6,1,April
+M1481,19,Male,Saturday,08:45,131,CrossFit,Boxing Area,4,2,July
+M1482,18,Female,Sunday,14:30,62,Strength Training,Weight Machines,5,1,December
+M1483,19,Male,Monday,04:15,58,Strength Training,Free Weights,2,1,November
+M1484,19,Male,Wednesday,16:15,47,Strength Training,Functional Training Area,6,2,May
+M1485,20,Male,Sunday,18:00,47,HIIT,Weight Machines,1,2,June
+M1486,17,Male,Wednesday,19:45,39,Cardio,Weight Machines,3,1,July
+M1487,18,Female,Saturday,07:30,155,Strength Training,Cardio Machines,4,2,October
+M1488,20,Male,Thursday,02:00,41,HIIT,Boxing Area,3,2,December
+M1489,20,Female,Wednesday,06:45,113,Strength Training,Weight Machines,7,1,July
+M1490,18,Male,Tuesday,20:15,176,HIIT,Functional Training Area,1,1,July
+M1491,19,Male,Tuesday,18:15,36,Cardio,Weight Machines,7,1,July
+M1492,18,Male,Friday,20:00,39,Yoga,Cardio Machines,4,2,November
+M1493,18,Male,Wednesday,18:45,139,Strength Training,Free Weights,4,2,July
+M1494,18,Female,Wednesday,08:45,141,Boxing,Group Class Studio,1,1,March
+M1495,18,Female,Wednesday,18:30,41,Yoga,Free Weights,3,1,December
+M1496,19,Female,Thursday,16:30,52,Strength Training,Functional Training Area,7,3,March
+M1497,17,Female,Saturday,19:00,64,Strength Training,Free Weights,3,3,July
+M1498,20,Male,Sunday,20:45,37,Cardio,Weight Machines,5,2,February
+M1499,20,Female,Wednesday,19:15,111,CrossFit,Weight Machines,7,3,February
+M1500,19,Female,Saturday,07:45,141,CrossFit,Weight Machines,3,2,March
+M1501,19,Female,Friday,13:15,30,Cardio,Free Weights,4,2,April
+M1502,18,Male,Thursday,18:00,109,CrossFit,Weight Machines,5,1,June
+M1503,19,Male,Sunday,06:30,40,Strength Training,Functional Training Area,2,2,August
+M1504,19,Male,Tuesday,22:15,35,Strength Training,Cardio Machines,2,1,October
+M1505,18,Male,Monday,07:30,63,Boxing,Free Weights,4,2,October
+M1506,20,Female,Saturday,08:45,132,Yoga,Functional Training Area,3,3,July
+M1507,19,Female,Wednesday,19:00,31,Cardio,Free Weights,5,2,April
+M1508,20,Female,Saturday,21:45,149,Yoga,Cardio Machines,2,1,February
+M1509,19,Female,Saturday,17:30,67,Swimming,Weight Machines,7,1,February
+M1510,19,Female,Monday,19:00,43,Yoga,Cardio Machines,1,1,April
+M1511,18,Female,Saturday,03:15,46,CrossFit,Weight Machines,4,1,June
+M1512,20,Female,Wednesday,18:30,35,Yoga,Stretching Area,4,2,March
+M1513,20,Male,Wednesday,05:00,66,Strength Training,Weight Machines,2,3,June
+M1514,17,Male,Thursday,17:00,84,CrossFit,Free Weights,2,1,May
+M1515,17,Male,Sunday,16:00,144,Strength Training,Weight Machines,5,1,May
+M1516,18,Female,Monday,14:30,37,Boxing,Boxing Area,6,2,February
+M1517,19,Female,Wednesday,22:15,131,Cardio,Cardio Machines,3,1,August
+M1518,20,Male,Friday,18:00,144,HIIT,Functional Training Area,3,3,May
+M1519,18,Female,Friday,17:45,104,Cardio,Boxing Area,3,1,November
+M1520,19,Male,Friday,18:00,40,Strength Training,Boxing Area,2,1,February
+M1521,18,Female,Monday,07:45,57,Strength Training,Functional Training Area,5,1,July
+M1522,20,Male,Tuesday,06:45,50,Swimming,Free Weights,6,1,September
+M1523,19,Male,Tuesday,05:15,142,Swimming,Group Class Studio,3,2,September
+M1524,19,Female,Saturday,04:30,112,Cardio,Free Weights,7,1,January
+M1525,18,Male,Tuesday,21:15,148,Swimming,Functional Training Area,2,2,July
+M1526,18,Male,Tuesday,20:45,74,CrossFit,Cardio Machines,5,2,September
+M1527,18,Male,Sunday,18:45,84,HIIT,Functional Training Area,3,1,June
+M1528,17,Female,Monday,01:30,174,Strength Training,Cardio Machines,3,1,January
+M1529,20,Female,Sunday,21:00,37,Boxing,Cardio Machines,4,2,February
+M1530,19,Male,Friday,07:45,96,HIIT,Pool,3,2,April
+M1531,20,Female,Saturday,19:45,169,CrossFit,Free Weights,5,3,April
+M1532,20,Female,Tuesday,18:45,68,CrossFit,Weight Machines,5,1,February
+M1533,19,Male,Monday,09:30,107,CrossFit,Cardio Machines,3,1,August
+M1534,19,Male,Friday,18:30,34,HIIT,Pool,6,1,February
+M1535,20,Male,Saturday,21:30,160,Strength Training,Free Weights,3,2,March
+M1536,19,Male,Friday,07:45,59,Cardio,Free Weights,5,2,April
+M1537,18,Female,Monday,17:30,74,Cardio,Free Weights,2,2,September
+M1538,18,Male,Friday,17:45,35,Strength Training,Free Weights,2,2,October
+M1539,17,Female,Friday,17:30,138,HIIT,Boxing Area,3,1,January
+M1540,20,Female,Thursday,14:00,85,HIIT,Functional Training Area,4,2,August
+M1541,19,Male,Friday,10:15,148,CrossFit,Cardio Machines,4,3,December
+M1542,18,Female,Saturday,19:15,41,Strength Training,Cardio Machines,3,1,May
+M1543,19,Male,Thursday,08:45,39,Cardio,Functional Training Area,2,2,July
+M1544,19,Female,Monday,14:15,139,Strength Training,Free Weights,3,3,August
+M1545,18,Female,Wednesday,18:00,131,Strength Training,Weight Machines,5,2,May
+M1546,17,Female,Monday,10:30,83,Strength Training,Weight Machines,5,2,August
+M1547,19,Female,Wednesday,18:45,127,Yoga,Free Weights,2,1,October
+M1548,19,Male,Wednesday,08:00,39,Strength Training,Weight Machines,1,2,November
+M1549,19,Female,Monday,21:15,129,Yoga,Weight Machines,5,1,August
+M1550,19,Female,Tuesday,19:00,138,Strength Training,Free Weights,2,2,September
+M1551,20,Female,Monday,19:30,42,CrossFit,Free Weights,2,1,February
+M1552,19,Female,Saturday,15:45,172,CrossFit,Functional Training Area,1,2,March
+M1553,19,Female,Sunday,11:30,54,Swimming,Free Weights,3,2,January
+M1554,20,Male,Monday,08:45,115,Boxing,Pool,4,2,April
+M1555,18,Male,Sunday,06:15,87,Boxing,Free Weights,4,1,May
+M1556,17,Female,Thursday,21:45,60,CrossFit,Functional Training Area,3,1,November
+M1557,17,Male,Tuesday,21:45,79,HIIT,Boxing Area,5,2,January
+M1558,19,Female,Monday,09:45,141,Strength Training,Pool,2,2,August
+M1559,19,Female,Wednesday,07:15,134,Strength Training,Group Class Studio,6,2,February
+M1560,19,Male,Friday,19:45,70,Strength Training,Weight Machines,4,1,January
+M1561,18,Male,Friday,01:00,82,HIIT,Weight Machines,4,2,February
+M1562,17,Female,Monday,17:30,38,Cardio,Weight Machines,2,2,May
+M1563,17,Male,Monday,05:30,108,CrossFit,Free Weights,2,2,September
+M1564,18,Female,Wednesday,18:30,114,Swimming,Free Weights,4,2,September
+M1565,19,Male,Tuesday,17:15,179,Cardio,Group Class Studio,4,2,February
+M1566,18,Female,Tuesday,08:15,89,Cardio,Cardio Machines,2,1,February
+M1567,18,Male,Tuesday,20:30,122,Swimming,Cardio Machines,7,1,March
+M1568,20,Female,Saturday,17:00,122,Strength Training,Boxing Area,7,2,July
+M1569,18,Female,Sunday,06:15,70,Yoga,Cardio Machines,4,1,November
+M1570,19,Female,Wednesday,07:15,175,Strength Training,Cardio Machines,7,2,March
+M1571,19,Male,Sunday,21:00,174,HIIT,Functional Training Area,2,2,January
+M1572,18,Female,Tuesday,18:30,107,Strength Training,Free Weights,1,3,June
+M1573,19,Female,Wednesday,08:30,160,Boxing,Weight Machines,1,2,March
+M1574,20,Male,Tuesday,06:30,152,HIIT,Pool,4,1,January
+M1575,20,Male,Thursday,21:00,163,Strength Training,Boxing Area,2,1,April
+M1576,17,Male,Sunday,21:00,100,Strength Training,Boxing Area,7,2,January
+M1577,20,Female,Thursday,22:15,46,Cardio,Weight Machines,2,1,January
+M1578,18,Female,Tuesday,16:45,117,Swimming,Group Class Studio,3,2,December
+M1579,18,Female,Thursday,19:15,38,Yoga,Free Weights,6,2,February
+M1580,18,Male,Monday,05:45,32,Cardio,Free Weights,3,1,October
+M1581,20,Male,Saturday,17:45,135,Cardio,Weight Machines,3,1,August
+M1582,18,Female,Wednesday,03:15,80,Cardio,Weight Machines,4,2,February
+M1583,18,Female,Wednesday,20:45,123,Yoga,Weight Machines,3,3,November
+M1584,19,Female,Thursday,21:30,115,Yoga,Weight Machines,3,1,February
+M1585,18,Male,Thursday,17:15,154,Cardio,Free Weights,3,3,November
+M1586,17,Female,Monday,19:15,71,Yoga,Weight Machines,4,2,November
+M1587,17,Male,Friday,18:45,159,HIIT,Functional Training Area,7,3,October
+M1588,17,Male,Tuesday,19:30,109,Swimming,Cardio Machines,6,1,October
+M1589,18,Female,Friday,20:45,37,Boxing,Free Weights,3,1,August
+M1590,17,Female,Saturday,18:15,87,Yoga,Weight Machines,3,2,December
+M1591,19,Female,Saturday,10:15,31,Yoga,Cardio Machines,4,3,June
+M1592,18,Male,Thursday,18:15,104,Strength Training,Cardio Machines,7,2,December
+M1593,18,Male,Thursday,18:45,153,CrossFit,Weight Machines,2,2,November
+M1594,20,Female,Monday,09:15,112,Cardio,Cardio Machines,3,3,April
+M1595,18,Female,Friday,17:30,149,Strength Training,Pool,5,1,March
+M1596,19,Male,Tuesday,04:15,120,Cardio,Free Weights,7,2,January
+M1597,18,Male,Wednesday,19:30,42,CrossFit,Weight Machines,2,3,November
+M1598,18,Male,Tuesday,15:15,141,Strength Training,Weight Machines,3,1,March
+M1599,17,Female,Monday,16:00,35,Cardio,Cardio Machines,3,1,December
+M1600,18,Male,Thursday,07:30,177,Cardio,Free Weights,1,2,September
+M1601,18,Male,Monday,19:45,80,Strength Training,Free Weights,4,1,May
+M1602,18,Male,Friday,18:30,106,Strength Training,Weight Machines,5,1,June
+M1603,17,Male,Tuesday,20:00,69,CrossFit,Pool,4,3,May
+M1604,17,Male,Monday,02:45,123,CrossFit,Functional Training Area,2,2,January
+M1605,18,Female,Wednesday,11:00,130,Strength Training,Cardio Machines,2,2,October
+M1606,18,Male,Monday,17:30,46,CrossFit,Group Class Studio,3,2,January
+M1607,18,Female,Tuesday,20:15,174,Yoga,Free Weights,3,1,April
+M1608,19,Male,Friday,21:45,113,Cardio,Group Class Studio,5,1,March
+M1609,19,Female,Monday,20:00,99,Yoga,Cardio Machines,2,1,November
+M1610,17,Female,Saturday,07:30,30,Swimming,Weight Machines,1,1,August
+M1611,19,Female,Monday,19:00,33,Cardio,Group Class Studio,3,2,December
+M1612,19,Female,Tuesday,11:15,132,Strength Training,Group Class Studio,3,2,December
+M1613,17,Male,Friday,20:30,73,Boxing,Group Class Studio,4,2,July
+M1614,20,Male,Tuesday,19:00,158,HIIT,Free Weights,6,1,November
+M1615,20,Female,Monday,19:00,124,Strength Training,Pool,2,1,July
+M1616,17,Female,Wednesday,18:30,127,HIIT,Pool,5,2,August
+M1617,18,Female,Tuesday,18:30,71,Cardio,Weight Machines,3,2,October
+M1618,19,Female,Saturday,13:15,178,CrossFit,Free Weights,3,1,July
+M1619,19,Female,Tuesday,17:30,179,Cardio,Free Weights,7,2,October
+M1620,18,Female,Friday,20:00,36,Strength Training,Stretching Area,3,1,February
+M1621,18,Male,Saturday,18:45,52,HIIT,Cardio Machines,4,1,April
+M1622,18,Female,Wednesday,19:30,168,Cardio,Weight Machines,3,2,November
+M1623,18,Female,Sunday,21:45,69,Strength Training,Weight Machines,4,1,June
+M1624,19,Male,Wednesday,19:00,105,HIIT,Weight Machines,5,2,March
+M1625,18,Female,Sunday,19:30,115,CrossFit,Cardio Machines,6,1,March
+M1626,18,Male,Monday,20:00,53,Strength Training,Weight Machines,6,1,June
+M1627,19,Female,Friday,17:30,122,HIIT,Pool,4,1,January
+M1628,17,Male,Wednesday,08:45,89,Cardio,Cardio Machines,3,3,January
+M1629,18,Female,Wednesday,09:45,120,Strength Training,Functional Training Area,5,2,May
+M1630,19,Female,Thursday,19:15,91,Cardio,Weight Machines,5,3,January
+M1631,20,Male,Friday,18:00,93,Cardio,Free Weights,1,2,October
+M1632,19,Female,Monday,02:15,132,CrossFit,Weight Machines,3,2,August
+M1633,19,Female,Monday,12:00,143,Strength Training,Weight Machines,6,1,February
+M1634,17,Female,Friday,13:00,168,Yoga,Free Weights,4,1,June
+M1635,18,Male,Friday,21:00,145,Strength Training,Pool,3,1,October
+M1636,19,Male,Sunday,18:45,50,Swimming,Weight Machines,6,1,October
+M1637,18,Male,Friday,07:15,157,HIIT,Free Weights,2,2,May
+M1638,18,Female,Sunday,19:00,163,Yoga,Free Weights,2,1,October
+M1639,18,Female,Friday,19:45,42,Strength Training,Weight Machines,5,1,December
+M1640,17,Female,Tuesday,09:15,85,Cardio,Stretching Area,3,1,December
+M1641,18,Female,Monday,18:45,167,Strength Training,Weight Machines,5,2,April
+M1642,18,Female,Friday,07:30,98,Boxing,Weight Machines,2,2,January
+M1643,18,Female,Thursday,08:00,105,Cardio,Cardio Machines,3,3,March
+M1644,17,Male,Monday,18:00,115,HIIT,Weight Machines,2,1,December
+M1645,20,Female,Wednesday,07:45,128,Yoga,Free Weights,7,1,April
+M1646,19,Male,Sunday,20:30,87,Cardio,Free Weights,3,1,February
+M1647,19,Female,Wednesday,20:00,137,Yoga,Weight Machines,3,3,December
+M1648,19,Female,Wednesday,09:00,168,HIIT,Free Weights,1,1,February
+M1649,18,Female,Wednesday,21:45,147,Yoga,Free Weights,2,2,February
+M1650,17,Male,Tuesday,17:15,83,Cardio,Group Class Studio,3,2,November
+M1651,19,Male,Wednesday,18:00,169,Cardio,Free Weights,2,1,January
+M1652,19,Male,Wednesday,07:00,89,Strength Training,Functional Training Area,4,1,October
+M1653,19,Male,Monday,18:45,136,CrossFit,Functional Training Area,4,1,February
+M1654,18,Male,Friday,08:15,48,HIIT,Cardio Machines,5,3,June
+M1655,17,Female,Wednesday,18:45,68,Cardio,Weight Machines,5,2,March
+M1656,18,Female,Saturday,15:30,113,Boxing,Free Weights,3,2,October
+M1657,18,Male,Saturday,18:00,96,Strength Training,Functional Training Area,3,2,May
+M1658,19,Male,Tuesday,20:15,41,CrossFit,Cardio Machines,5,2,January
+M1659,19,Female,Thursday,17:00,52,Swimming,Cardio Machines,5,2,August
+M1660,18,Female,Wednesday,20:30,69,Boxing,Free Weights,2,1,April
+M1661,20,Female,Saturday,20:30,108,CrossFit,Boxing Area,6,1,September
+M1662,19,Female,Tuesday,19:15,85,Cardio,Free Weights,2,1,April
+M1663,18,Female,Friday,19:15,135,Strength Training,Weight Machines,1,2,February
+M1664,17,Female,Thursday,18:30,118,Yoga,Weight Machines,2,1,March
+M1665,18,Female,Tuesday,23:00,172,Cardio,Free Weights,6,2,May
+M1666,18,Male,Monday,20:30,35,Strength Training,Weight Machines,4,1,December
+M1667,18,Female,Thursday,17:30,177,Yoga,Functional Training Area,5,3,October
+M1668,18,Male,Friday,22:15,47,Cardio,Group Class Studio,3,1,June
+M1669,18,Female,Tuesday,17:30,85,Boxing,Group Class Studio,4,1,July
+M1670,18,Male,Thursday,20:15,86,CrossFit,Weight Machines,3,3,April
+M1671,20,Female,Wednesday,20:15,60,CrossFit,Cardio Machines,6,2,July
+M1672,17,Female,Friday,21:30,176,Yoga,Free Weights,1,3,October
+M1673,19,Female,Tuesday,12:45,113,Boxing,Weight Machines,3,1,March
+M1674,18,Female,Saturday,09:30,179,CrossFit,Free Weights,2,1,July
+M1675,20,Male,Tuesday,05:00,143,HIIT,Weight Machines,6,2,April
+M1676,17,Male,Wednesday,09:30,56,Strength Training,Weight Machines,4,3,August
+M1677,18,Male,Monday,17:15,174,Boxing,Weight Machines,3,1,September
+M1678,20,Male,Monday,07:00,68,CrossFit,Cardio Machines,3,3,July
+M1679,20,Female,Wednesday,10:00,171,Cardio,Boxing Area,7,2,August
+M1680,19,Male,Tuesday,18:30,34,Strength Training,Weight Machines,6,2,August
+M1681,18,Female,Saturday,14:45,71,HIIT,Stretching Area,5,1,February
+M1682,18,Female,Monday,21:00,153,Strength Training,Functional Training Area,3,1,September
+M1683,19,Female,Wednesday,04:30,51,Boxing,Cardio Machines,2,3,June
+M1684,20,Male,Tuesday,08:30,170,Swimming,Cardio Machines,7,3,November
+M1685,19,Female,Monday,16:00,169,Strength Training,Free Weights,3,2,April
+M1686,19,Female,Monday,09:30,52,HIIT,Group Class Studio,3,1,May
+M1687,18,Female,Wednesday,06:30,127,Strength Training,Cardio Machines,4,1,October
+M1688,19,Female,Wednesday,09:00,58,Yoga,Stretching Area,6,2,May
+M1689,18,Female,Wednesday,19:00,98,Cardio,Cardio Machines,3,1,July
+M1690,18,Male,Thursday,19:30,169,HIIT,Group Class Studio,4,1,September
+M1691,18,Female,Thursday,21:30,104,Cardio,Functional Training Area,6,1,July
+M1692,19,Male,Monday,17:45,179,Strength Training,Weight Machines,3,2,September
+M1693,18,Male,Wednesday,20:00,80,Cardio,Weight Machines,3,1,April
+M1694,17,Male,Sunday,21:45,165,Strength Training,Weight Machines,7,2,October
+M1695,19,Male,Wednesday,08:15,119,HIIT,Weight Machines,7,2,October
+M1696,18,Male,Friday,16:30,109,Strength Training,Free Weights,6,2,April
+M1697,19,Male,Tuesday,19:45,143,Cardio,Boxing Area,5,2,June
+M1698,18,Female,Friday,19:00,71,Boxing,Cardio Machines,3,1,August
+M1699,18,Female,Friday,20:45,179,CrossFit,Stretching Area,6,2,September
+M1700,19,Female,Thursday,21:45,107,Boxing,Group Class Studio,3,2,January
+M1701,17,Female,Sunday,21:15,157,Boxing,Cardio Machines,6,2,January
+M1702,18,Male,Monday,19:00,160,Strength Training,Pool,6,3,August
+M1703,17,Female,Monday,19:00,81,Strength Training,Cardio Machines,4,2,November
+M1704,17,Female,Friday,06:00,123,HIIT,Boxing Area,6,2,July
+M1705,20,Male,Saturday,10:15,111,Boxing,Weight Machines,5,1,September
+M1706,18,Female,Monday,19:00,107,Swimming,Weight Machines,2,2,November
+M1707,19,Male,Tuesday,19:00,37,Strength Training,Weight Machines,5,2,March
+M1708,18,Female,Monday,20:00,112,Cardio,Cardio Machines,2,1,October
+M1709,19,Female,Tuesday,01:45,99,Strength Training,Cardio Machines,4,2,December
+M1710,19,Male,Friday,19:15,46,Yoga,Weight Machines,2,1,May
+M1711,19,Male,Wednesday,10:30,130,HIIT,Weight Machines,3,2,March
+M1712,18,Female,Tuesday,19:30,175,Strength Training,Boxing Area,6,2,May
+M1713,18,Female,Wednesday,15:45,96,Cardio,Cardio Machines,7,2,October
+M1714,18,Male,Monday,07:00,112,HIIT,Weight Machines,3,3,January
+M1715,20,Female,Tuesday,08:00,85,Yoga,Cardio Machines,4,1,November
+M1716,19,Male,Thursday,08:15,39,Strength Training,Functional Training Area,4,1,April
+M1717,20,Female,Sunday,16:15,150,Boxing,Pool,7,1,June
+M1718,17,Female,Saturday,06:15,127,HIIT,Weight Machines,4,3,February
+M1719,19,Male,Monday,22:00,71,CrossFit,Free Weights,5,2,July
+M1720,20,Male,Saturday,09:45,32,CrossFit,Weight Machines,7,2,August
+M1721,18,Male,Friday,18:30,156,Strength Training,Weight Machines,3,1,January
+M1722,17,Male,Friday,20:15,73,Strength Training,Boxing Area,6,2,April
+M1723,19,Male,Wednesday,06:15,162,Yoga,Weight Machines,6,1,November
+M1724,19,Female,Wednesday,07:15,144,Strength Training,Pool,7,2,April
+M1725,19,Male,Tuesday,06:00,132,CrossFit,Weight Machines,3,2,May
+M1726,17,Female,Monday,08:00,40,Yoga,Stretching Area,3,2,December
+M1727,19,Female,Tuesday,20:15,73,CrossFit,Free Weights,6,2,December
+M1728,18,Female,Tuesday,12:30,159,Strength Training,Boxing Area,3,2,April
+M1729,18,Female,Wednesday,17:15,131,Cardio,Pool,4,2,September
+M1730,18,Male,Friday,21:45,124,HIIT,Pool,2,2,July
+M1731,19,Female,Wednesday,19:15,62,Strength Training,Free Weights,1,2,February
+M1732,19,Female,Monday,08:15,159,Yoga,Free Weights,3,1,January
+M1733,19,Male,Sunday,21:00,46,CrossFit,Cardio Machines,4,1,September
+M1734,18,Male,Sunday,18:30,180,Cardio,Free Weights,3,2,January
+M1735,20,Female,Friday,21:45,158,Yoga,Free Weights,4,2,June
+M1736,18,Female,Sunday,14:45,97,Strength Training,Free Weights,4,1,February
+M1737,19,Male,Thursday,10:15,71,Cardio,Cardio Machines,5,2,April
+M1738,18,Male,Sunday,07:30,146,Swimming,Cardio Machines,4,1,June
+M1739,18,Male,Monday,08:00,36,Swimming,Free Weights,3,1,May
+M1740,18,Female,Wednesday,19:15,163,Cardio,Free Weights,3,2,November
+M1741,18,Female,Tuesday,21:15,159,Boxing,Weight Machines,2,2,June
+M1742,19,Female,Tuesday,18:15,124,Cardio,Cardio Machines,4,2,March
+M1743,19,Male,Monday,05:45,46,Strength Training,Free Weights,4,2,May
+M1744,18,Male,Thursday,21:15,88,Strength Training,Weight Machines,4,3,February
+M1745,20,Female,Friday,18:15,69,Boxing,Boxing Area,3,2,July
+M1746,18,Male,Thursday,13:45,60,Strength Training,Stretching Area,5,1,March
+M1747,19,Male,Monday,18:15,126,HIIT,Stretching Area,2,1,January
+M1748,20,Female,Saturday,04:00,57,HIIT,Boxing Area,6,1,August
+M1749,19,Male,Thursday,04:15,121,Yoga,Weight Machines,1,3,August
+M1750,17,Female,Wednesday,10:30,80,Cardio,Cardio Machines,7,1,March
+M1751,20,Male,Friday,17:30,63,Strength Training,Weight Machines,4,1,July
+M1752,19,Male,Tuesday,23:15,134,Strength Training,Cardio Machines,3,1,September
+M1753,18,Male,Tuesday,20:15,77,HIIT,Weight Machines,3,2,August
+M1754,17,Female,Sunday,17:30,58,Yoga,Cardio Machines,1,1,March
+M1755,19,Female,Tuesday,03:00,86,HIIT,Cardio Machines,3,3,February
+M1756,19,Female,Wednesday,18:15,82,Yoga,Free Weights,2,1,October
+M1757,19,Female,Saturday,05:15,122,Strength Training,Functional Training Area,5,1,July
+M1758,20,Male,Friday,19:15,125,Boxing,Free Weights,3,1,July
+M1759,19,Female,Monday,07:00,35,HIIT,Weight Machines,5,2,September
+M1760,18,Female,Monday,16:45,133,Strength Training,Free Weights,2,3,May
+M1761,18,Female,Monday,20:30,175,Cardio,Weight Machines,6,1,April
+M1762,18,Male,Thursday,17:15,115,CrossFit,Free Weights,4,1,August
+M1763,19,Female,Wednesday,07:30,93,Boxing,Boxing Area,2,2,April
+M1764,17,Male,Monday,21:45,33,Strength Training,Weight Machines,3,1,April
+M1765,19,Male,Sunday,11:30,166,Yoga,Weight Machines,2,1,December
+M1766,19,Female,Thursday,21:30,136,Strength Training,Weight Machines,2,1,December
+M1767,20,Female,Tuesday,04:15,58,Strength Training,Cardio Machines,4,1,February
+M1768,18,Male,Wednesday,17:30,84,HIIT,Functional Training Area,5,1,January
+M1769,19,Male,Friday,19:00,79,HIIT,Cardio Machines,6,1,April
+M1770,17,Female,Monday,19:30,135,Yoga,Functional Training Area,4,1,July
+M1771,19,Female,Tuesday,19:00,130,Cardio,Boxing Area,7,2,December
+M1772,17,Female,Saturday,13:15,166,Strength Training,Group Class Studio,7,1,September
+M1773,18,Female,Wednesday,20:30,73,Cardio,Cardio Machines,6,2,September
+M1774,19,Female,Thursday,04:15,55,Strength Training,Free Weights,4,1,December
+M1775,17,Male,Wednesday,21:15,117,Strength Training,Cardio Machines,2,2,October
+M1776,18,Female,Monday,08:45,84,Cardio,Cardio Machines,3,1,January
+M1777,19,Female,Monday,18:00,171,Cardio,Functional Training Area,4,2,May
+M1778,19,Male,Wednesday,07:15,150,Strength Training,Group Class Studio,3,1,July
+M1779,19,Female,Tuesday,21:45,74,HIIT,Functional Training Area,2,3,July
+M1780,19,Male,Monday,18:30,41,Strength Training,Group Class Studio,4,1,October
+M1781,19,Female,Saturday,18:30,137,Strength Training,Free Weights,1,1,June
+M1782,18,Female,Sunday,12:30,81,HIIT,Free Weights,5,3,November
+M1783,18,Female,Friday,10:30,140,Strength Training,Weight Machines,2,2,October
+M1784,18,Female,Saturday,08:45,117,HIIT,Boxing Area,4,1,April
+M1785,20,Female,Tuesday,18:15,70,Strength Training,Group Class Studio,5,3,March
+M1786,19,Female,Sunday,18:00,120,Cardio,Cardio Machines,2,1,December
+M1787,18,Female,Tuesday,17:45,84,Strength Training,Functional Training Area,4,1,September
+M1788,18,Male,Sunday,08:45,175,Strength Training,Functional Training Area,5,3,December
+M1789,20,Female,Sunday,12:45,178,HIIT,Pool,3,1,October
+M1790,18,Male,Friday,17:00,157,Boxing,Group Class Studio,2,3,April
+M1791,19,Female,Sunday,17:15,35,Strength Training,Cardio Machines,3,1,August
+M1792,19,Female,Thursday,23:15,101,Cardio,Cardio Machines,4,2,January
+M1793,19,Female,Tuesday,19:30,58,Yoga,Free Weights,4,2,July
+M1794,17,Male,Wednesday,17:00,68,Cardio,Cardio Machines,2,3,December
+M1795,20,Male,Thursday,07:00,168,CrossFit,Weight Machines,4,2,June
+M1796,20,Female,Monday,18:15,66,Strength Training,Free Weights,3,1,December
+M1797,19,Male,Thursday,18:15,102,Swimming,Group Class Studio,6,2,January
+M1798,19,Male,Sunday,19:30,166,Cardio,Cardio Machines,3,1,April
+M1799,20,Male,Tuesday,00:00,41,Cardio,Stretching Area,6,2,December
+M1800,19,Female,Friday,19:00,41,CrossFit,Weight Machines,3,3,May
+M1801,18,Female,Sunday,01:45,99,HIIT,Weight Machines,5,2,November
+M1802,19,Male,Sunday,20:15,96,Cardio,Weight Machines,4,2,August
+M1803,19,Male,Sunday,12:45,30,Yoga,Free Weights,4,1,April
+M1804,18,Male,Thursday,18:15,161,HIIT,Weight Machines,3,2,March
+M1805,19,Female,Sunday,18:45,144,Strength Training,Weight Machines,5,1,February
+M1806,20,Female,Friday,13:30,91,HIIT,Free Weights,3,2,April
+M1807,20,Male,Monday,20:45,161,Strength Training,Weight Machines,4,1,November
+M1808,18,Male,Wednesday,21:30,62,CrossFit,Free Weights,4,2,October
+M1809,17,Male,Friday,19:45,123,Swimming,Functional Training Area,6,1,April
+M1810,20,Female,Tuesday,05:00,126,Cardio,Free Weights,5,2,October
+M1811,19,Female,Thursday,08:45,131,Cardio,Cardio Machines,3,1,May
+M1812,17,Male,Friday,19:30,112,Strength Training,Functional Training Area,5,2,July
+M1813,20,Male,Monday,19:45,158,Strength Training,Weight Machines,4,1,September
+M1814,20,Male,Thursday,18:15,170,Boxing,Pool,7,2,February
+M1815,19,Female,Friday,07:15,75,Strength Training,Functional Training Area,6,1,May
+M1816,19,Male,Wednesday,07:30,172,Cardio,Functional Training Area,4,2,November
+M1817,18,Female,Monday,04:15,62,CrossFit,Free Weights,3,1,October
+M1818,17,Female,Monday,05:45,94,Boxing,Functional Training Area,5,2,September
+M1819,18,Male,Tuesday,21:45,67,Cardio,Group Class Studio,4,1,December
+M1820,19,Male,Sunday,19:15,102,HIIT,Weight Machines,7,2,March
+M1821,17,Male,Tuesday,17:45,121,HIIT,Free Weights,3,1,January
+M1822,18,Female,Thursday,17:15,121,Swimming,Weight Machines,2,1,February
+M1823,18,Female,Tuesday,04:30,141,HIIT,Functional Training Area,2,2,June
+M1824,19,Female,Tuesday,17:15,143,HIIT,Weight Machines,4,1,May
+M1825,20,Female,Saturday,09:30,64,Strength Training,Functional Training Area,7,1,January
+M1826,18,Male,Friday,20:45,82,Strength Training,Free Weights,1,3,January
+M1827,18,Female,Monday,13:15,61,HIIT,Group Class Studio,5,3,November
+M1828,19,Female,Wednesday,05:15,30,Boxing,Weight Machines,5,2,April
+M1829,18,Male,Monday,18:15,156,CrossFit,Free Weights,5,1,December
+M1830,18,Female,Wednesday,20:15,84,Swimming,Cardio Machines,3,1,April
+M1831,18,Female,Friday,18:45,175,Cardio,Free Weights,6,2,June
+M1832,17,Female,Monday,16:45,144,Yoga,Free Weights,1,1,June
+M1833,18,Female,Tuesday,02:00,114,CrossFit,Weight Machines,5,3,October
+M1834,18,Female,Wednesday,20:30,76,HIIT,Cardio Machines,3,1,June
+M1835,18,Female,Sunday,20:00,61,Cardio,Boxing Area,4,3,January
+M1836,20,Male,Sunday,19:30,111,Cardio,Group Class Studio,6,2,October
+M1837,18,Male,Monday,07:15,58,CrossFit,Weight Machines,3,2,September
+M1838,19,Female,Friday,07:30,178,Strength Training,Free Weights,2,1,November
+M1839,19,Male,Wednesday,21:00,102,Boxing,Cardio Machines,5,3,July
+M1840,17,Male,Wednesday,21:15,103,Strength Training,Functional Training Area,4,1,July
+M1841,19,Female,Friday,18:30,39,Yoga,Weight Machines,4,2,November
+M1842,18,Female,Sunday,17:15,134,HIIT,Free Weights,3,2,July
+M1843,20,Female,Sunday,09:30,102,Yoga,Weight Machines,1,1,February
+M1844,17,Female,Thursday,19:45,152,Cardio,Functional Training Area,3,2,February
+M1845,18,Male,Tuesday,09:00,86,Boxing,Weight Machines,2,2,June
+M1846,17,Male,Friday,21:00,176,HIIT,Group Class Studio,6,1,July
+M1847,20,Male,Tuesday,06:15,162,Strength Training,Weight Machines,1,2,March
+M1848,19,Female,Thursday,18:30,90,HIIT,Free Weights,3,1,April
+M1849,19,Female,Tuesday,17:45,36,Strength Training,Weight Machines,1,1,December
+M1850,17,Male,Thursday,19:30,69,Strength Training,Weight Machines,2,2,March
+M1851,19,Female,Tuesday,09:00,106,Cardio,Free Weights,5,2,July
+M1852,18,Female,Tuesday,23:45,129,CrossFit,Free Weights,4,1,July
+M1853,20,Female,Sunday,08:15,79,Cardio,Free Weights,1,3,April
+M1854,18,Female,Monday,12:00,160,HIIT,Free Weights,1,3,July
+M1855,18,Male,Wednesday,03:15,69,Cardio,Weight Machines,2,2,May
+M1856,17,Female,Tuesday,10:30,82,Strength Training,Pool,5,2,January
+M1857,18,Female,Monday,18:15,102,Swimming,Cardio Machines,4,1,October
+M1858,19,Female,Monday,04:45,129,HIIT,Cardio Machines,1,2,April
+M1859,17,Female,Monday,21:15,45,Boxing,Weight Machines,4,2,July
+M1860,19,Female,Saturday,08:15,67,Strength Training,Weight Machines,5,1,February
+M1861,18,Female,Tuesday,07:45,76,Strength Training,Free Weights,6,2,February
+M1862,19,Male,Sunday,23:15,157,CrossFit,Cardio Machines,7,1,January
+M1863,18,Female,Thursday,18:45,174,HIIT,Weight Machines,3,1,February
+M1864,18,Female,Wednesday,20:45,77,Strength Training,Free Weights,2,2,October
+M1865,19,Female,Thursday,09:45,142,Strength Training,Functional Training Area,3,2,August
+M1866,18,Male,Wednesday,07:00,93,CrossFit,Weight Machines,5,2,November
+M1867,18,Male,Friday,17:15,167,Cardio,Weight Machines,7,2,August
+M1868,20,Male,Tuesday,20:00,78,HIIT,Free Weights,4,3,August
+M1869,20,Female,Tuesday,09:00,39,Cardio,Cardio Machines,3,2,January
+M1870,18,Female,Saturday,19:00,64,Cardio,Functional Training Area,3,2,January
+M1871,18,Male,Sunday,12:30,133,Swimming,Weight Machines,3,1,December
+M1872,19,Female,Saturday,17:30,138,Strength Training,Free Weights,3,1,October
+M1873,18,Female,Wednesday,04:15,144,Cardio,Cardio Machines,4,1,April
+M1874,17,Female,Friday,18:45,153,CrossFit,Free Weights,1,2,June
+M1875,18,Female,Wednesday,07:15,129,Strength Training,Cardio Machines,3,2,August
+M1876,19,Female,Wednesday,21:15,177,Cardio,Cardio Machines,5,1,February
+M1877,19,Female,Tuesday,14:00,130,HIIT,Free Weights,1,1,March
+M1878,17,Male,Thursday,20:45,141,Cardio,Free Weights,2,1,June
+M1879,18,Female,Tuesday,12:00,107,Cardio,Cardio Machines,3,1,October
+M1880,18,Female,Tuesday,18:30,177,Cardio,Weight Machines,6,3,April
+M1881,19,Female,Saturday,18:45,178,HIIT,Free Weights,5,2,December
+M1882,17,Female,Tuesday,17:15,101,HIIT,Functional Training Area,1,1,February
+M1883,17,Female,Monday,15:15,176,HIIT,Weight Machines,4,2,July
+M1884,19,Male,Monday,18:00,54,Strength Training,Weight Machines,3,2,April
+M1885,18,Female,Sunday,08:15,35,HIIT,Free Weights,4,2,August
+M1886,19,Male,Wednesday,17:30,129,Swimming,Cardio Machines,5,1,August
+M1887,18,Male,Wednesday,19:00,109,Cardio,Weight Machines,6,2,July
+M1888,17,Female,Saturday,17:00,180,Yoga,Pool,4,1,October
+M1889,18,Female,Saturday,21:45,60,HIIT,Functional Training Area,7,2,September
+M1890,19,Male,Tuesday,08:45,149,CrossFit,Free Weights,7,2,April
+M1891,20,Male,Friday,15:00,96,Boxing,Weight Machines,6,2,July
+M1892,19,Female,Friday,21:00,75,Strength Training,Weight Machines,4,1,October
+M1893,18,Male,Thursday,18:30,96,Cardio,Cardio Machines,3,1,October
+M1894,19,Female,Monday,10:45,57,Cardio,Group Class Studio,3,1,December
+M1895,18,Female,Saturday,18:30,136,Cardio,Cardio Machines,1,3,January
+M1896,18,Female,Thursday,09:00,45,Strength Training,Free Weights,3,1,April
+M1897,20,Male,Tuesday,09:00,158,CrossFit,Cardio Machines,5,1,February
+M1898,17,Male,Wednesday,07:45,149,Strength Training,Free Weights,4,3,September
+M1899,17,Female,Monday,19:30,70,Cardio,Functional Training Area,6,2,May
+M1900,18,Female,Monday,06:45,47,HIIT,Cardio Machines,1,2,March
+M1901,17,Male,Friday,21:45,81,Strength Training,Weight Machines,2,1,April
+M1902,18,Female,Monday,17:00,64,Boxing,Weight Machines,5,2,June
+M1903,19,Male,Wednesday,07:45,80,CrossFit,Functional Training Area,3,1,October
+M1904,18,Female,Thursday,03:00,161,Cardio,Functional Training Area,2,2,January
+M1905,20,Male,Monday,21:15,166,Cardio,Weight Machines,7,1,July
+M1906,19,Female,Sunday,17:15,154,Strength Training,Weight Machines,5,2,August
+M1907,18,Male,Tuesday,04:30,70,Yoga,Cardio Machines,3,2,July
+M1908,18,Male,Tuesday,01:15,61,Strength Training,Free Weights,6,2,July
+M1909,18,Male,Tuesday,08:00,34,HIIT,Free Weights,5,2,September
+M1910,19,Male,Tuesday,20:45,109,CrossFit,Free Weights,5,1,April
+M1911,18,Female,Monday,13:15,83,Strength Training,Free Weights,6,1,July
+M1912,19,Female,Friday,07:30,103,CrossFit,Cardio Machines,2,2,September
+M1913,18,Male,Sunday,07:30,31,Strength Training,Stretching Area,4,2,May
+M1914,19,Female,Tuesday,10:30,40,Boxing,Cardio Machines,1,3,February
+M1915,18,Female,Friday,20:00,152,Strength Training,Free Weights,1,2,May
+M1916,18,Female,Friday,18:00,119,HIIT,Cardio Machines,6,2,April
+M1917,20,Female,Saturday,21:15,137,Strength Training,Weight Machines,4,3,August
+M1918,19,Male,Wednesday,19:00,130,CrossFit,Free Weights,5,1,May
+M1919,17,Male,Tuesday,20:45,133,Cardio,Boxing Area,6,2,September
+M1920,20,Female,Tuesday,17:15,65,Strength Training,Weight Machines,7,1,September
+M1921,18,Male,Friday,18:45,60,HIIT,Stretching Area,6,1,March
+M1922,20,Female,Saturday,07:00,49,Cardio,Weight Machines,4,2,October
+M1923,19,Male,Tuesday,07:45,122,HIIT,Cardio Machines,3,2,June
+M1924,18,Female,Wednesday,23:30,33,Boxing,Free Weights,2,2,June
+M1925,17,Male,Sunday,20:15,118,Cardio,Weight Machines,3,2,April
+M1926,18,Female,Saturday,20:15,129,Strength Training,Free Weights,3,2,November
+M1927,19,Female,Sunday,07:45,132,Strength Training,Group Class Studio,4,1,October
+M1928,19,Female,Friday,17:45,103,HIIT,Functional Training Area,5,2,March
+M1929,18,Male,Wednesday,09:30,142,Cardio,Group Class Studio,7,2,January
+M1930,17,Female,Thursday,21:30,62,Cardio,Functional Training Area,5,2,December
+M1931,19,Female,Friday,21:00,39,Strength Training,Group Class Studio,4,1,July
+M1932,20,Female,Monday,19:30,30,Cardio,Free Weights,3,1,May
+M1933,19,Female,Thursday,19:45,108,Swimming,Weight Machines,1,2,October
+M1934,18,Female,Friday,18:45,135,Strength Training,Cardio Machines,3,2,July
+M1935,18,Female,Monday,20:15,68,HIIT,Cardio Machines,5,2,January
+M1936,17,Male,Friday,22:45,125,Yoga,Functional Training Area,2,2,August
+M1937,20,Female,Thursday,08:45,44,Yoga,Free Weights,5,3,March
+M1938,17,Female,Sunday,21:15,40,Cardio,Free Weights,4,3,July
+M1939,19,Male,Monday,15:45,49,HIIT,Boxing Area,2,2,December
+M1940,18,Male,Tuesday,10:00,138,CrossFit,Cardio Machines,3,2,March
+M1941,19,Male,Thursday,19:00,39,Strength Training,Free Weights,4,1,March
+M1942,19,Female,Tuesday,05:00,150,Cardio,Functional Training Area,3,2,October
+M1943,19,Female,Friday,06:45,171,Strength Training,Boxing Area,5,2,September
+M1944,18,Female,Friday,21:45,175,Cardio,Free Weights,5,3,February
+M1945,17,Female,Monday,07:45,66,Cardio,Group Class Studio,4,1,April
+M1946,17,Female,Wednesday,20:30,55,Yoga,Pool,6,2,June
+M1947,20,Male,Wednesday,01:00,99,Strength Training,Pool,4,2,March
+M1948,20,Male,Wednesday,10:15,171,Cardio,Boxing Area,7,2,December
+M1949,19,Female,Sunday,18:45,60,HIIT,Cardio Machines,3,1,October
+M1950,19,Male,Saturday,06:45,76,Cardio,Weight Machines,5,2,October
+M1951,19,Male,Friday,05:00,100,Yoga,Free Weights,3,2,July
+M1952,18,Female,Friday,17:00,127,Cardio,Free Weights,3,2,July
+M1953,20,Female,Wednesday,17:30,51,Boxing,Weight Machines,2,1,May
+M1954,18,Female,Sunday,21:30,151,Cardio,Weight Machines,4,2,March
+M1955,18,Female,Friday,09:00,38,HIIT,Free Weights,3,1,February
+M1956,19,Female,Friday,08:15,44,CrossFit,Weight Machines,2,1,April
+M1957,17,Male,Saturday,19:15,62,Strength Training,Free Weights,7,2,April
+M1958,18,Female,Tuesday,19:00,69,Strength Training,Group Class Studio,6,2,November
+M1959,19,Female,Saturday,01:30,155,Yoga,Weight Machines,5,2,August
+M1960,17,Male,Tuesday,21:45,91,Cardio,Cardio Machines,5,2,August
+M1961,19,Male,Tuesday,14:45,174,Boxing,Cardio Machines,7,1,May
+M1962,18,Female,Tuesday,21:00,119,Swimming,Free Weights,4,2,June
+M1963,18,Male,Sunday,08:15,62,Cardio,Pool,3,1,August
+M1964,18,Female,Saturday,13:45,51,Cardio,Cardio Machines,6,3,January
+M1965,18,Female,Friday,19:15,148,Cardio,Weight Machines,5,2,May
+M1966,19,Male,Friday,17:30,30,Cardio,Free Weights,3,2,April
+M1967,18,Male,Thursday,18:00,52,Yoga,Weight Machines,4,2,April
+M1968,19,Male,Sunday,18:00,70,Yoga,Free Weights,3,2,November
+M1969,18,Male,Wednesday,23:30,43,Cardio,Weight Machines,7,2,February
+M1970,19,Male,Wednesday,18:00,42,Strength Training,Cardio Machines,3,1,October
+M1971,20,Female,Monday,21:00,155,Cardio,Group Class Studio,7,1,January
+M1972,19,Male,Friday,21:45,101,Strength Training,Cardio Machines,6,2,June
+M1973,18,Female,Friday,07:15,138,CrossFit,Free Weights,4,3,July
+M1974,17,Male,Wednesday,00:00,134,Strength Training,Free Weights,4,1,May
+M1975,18,Female,Monday,08:15,114,CrossFit,Weight Machines,3,1,August
+M1976,19,Male,Saturday,20:30,37,HIIT,Free Weights,1,2,September
+M1977,17,Male,Monday,16:30,47,Yoga,Free Weights,2,2,November
+M1978,18,Female,Friday,10:45,79,Cardio,Group Class Studio,5,1,November
+M1979,19,Female,Sunday,10:00,128,HIIT,Free Weights,4,1,February
+M1980,18,Male,Wednesday,09:00,123,HIIT,Group Class Studio,2,2,November
+M1981,19,Female,Tuesday,08:15,142,Yoga,Free Weights,3,2,April
+M1982,17,Female,Friday,17:30,77,Cardio,Stretching Area,7,1,November
+M1983,17,Female,Saturday,18:45,129,Cardio,Cardio Machines,3,1,September
+M1984,19,Male,Thursday,22:00,81,HIIT,Functional Training Area,6,2,May
+M1985,18,Male,Sunday,03:00,40,Strength Training,Free Weights,3,2,March
+M1986,19,Female,Monday,19:00,173,Cardio,Group Class Studio,4,3,June
+M1987,18,Female,Wednesday,20:00,71,Swimming,Group Class Studio,1,2,March
+M1988,18,Female,Friday,11:00,124,Strength Training,Cardio Machines,4,1,May
+M1989,19,Female,Saturday,08:30,160,Cardio,Cardio Machines,4,2,March
+M1990,19,Female,Monday,07:30,59,Cardio,Functional Training Area,3,2,June
+M1991,19,Male,Saturday,19:15,168,HIIT,Free Weights,4,1,December
+M1992,18,Female,Thursday,09:30,49,Strength Training,Cardio Machines,4,3,October
+M1993,19,Male,Wednesday,08:45,124,HIIT,Group Class Studio,5,2,May
+M1994,18,Female,Monday,21:15,69,Strength Training,Weight Machines,5,1,September
+M1995,17,Female,Saturday,17:15,69,Strength Training,Free Weights,3,1,March
+M1996,20,Female,Monday,19:00,146,Yoga,Weight Machines,4,1,June
+M1997,17,Male,Tuesday,10:30,73,Cardio,Functional Training Area,7,1,August
+M1998,20,Male,Tuesday,19:15,118,Swimming,Free Weights,6,2,July
+M1999,18,Male,Saturday,14:45,48,Strength Training,Free Weights,7,2,June
